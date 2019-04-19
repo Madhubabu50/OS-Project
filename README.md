@@ -20,7 +20,7 @@ int main()
 { 
 printf("\n ************************* SHORTEST JOB SCHEDULING ALLGORITHM PROJECT 
 ***********************************"); 
-printf("\n\n"); printf("\n                           Submitted to:Kamini Joshi\n"); printf("\n                           Submitted by :Tarun\n"); printf("\n                           REG NO:11702435\n"); printf("\n                           ROLL NO:A04\n"); 
+printf("\n\n"); printf("\n                           Submitted to:Kamini Joshi\n"); printf("\n                           Submitted by :Madhubabu\n"); printf("\n                           REG NO:11704484\n"); printf("\n                           ROLL NO:B50\n"); 
     printf("\n\n\n Enter the number of processes you want to schedule :  ");//taking input from user for number of processes to schedule. 
     int number;     scanf("%d",&number);     struct process proc[number];//Intializing Structure. printf("\n Enter the burst time of the processes \n"); 
  
